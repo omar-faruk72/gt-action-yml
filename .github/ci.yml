@@ -1,0 +1,39 @@
+name: CI Pipeline
+on:
+ push: 
+   branches: [main, dev]
+ pull_request:
+   branches: [main, dev]
+jobs:
+ ci_block:
+   name: build & check
+   runs-on: ubuntu-latest
+   steps: 
+     # step 1: checkout code
+     -name: checkout code
+     uses: actions/checkout@v4
+
+     # step 2: node js setup
+     -name: node.js setup
+     uses: actions/setup-node@4
+     with:
+       node-version: "20"
+       cache: "npm"
+
+     # step 3: dependencies install
+     -name: dependencies install
+     run: npm ci
+
+     # step 4: typescript check
+     -name: check typescript
+     run: npx tsc --noEmit
+
+     # step 5: eslint check
+     -name: check eslint
+     run: npm run lint
+
+     # step 6: build check
+     -name: check build
+     run: npm run build
+
+
