@@ -1,0 +1,149 @@
+[
+  {
+    "category": "UI/UX Design",
+    "title": "UI/UX",
+    "comparison": [
+      { "feature": "Design Concepts", "basic": "1 Concept", "standard": "3 Concepts", "premium": "Unlimited" },
+      { "feature": "Responsive Design", "basic": true, "standard": true, "premium": true },
+      { "feature": "Prototype (Interactive)", "basic": false, "standard": true, "premium": true },
+      { "feature": "User Journey Mapping", "basic": false, "standard": false, "premium": true },
+      { "feature": "Style Guide / UI Kit", "basic": false, "standard": true, "premium": true },
+      { "feature": "Source File (Figma)", "basic": true, "standard": true, "premium": true },
+      { "feature": "Revisions", "basic": "2 Times", "standard": "5 Times", "premium": "Unlimited" },
+      { "feature": "Support", "basic": "Email", "standard": "Priority", "premium": "24/7 Dedicated" },
+      { "feature": "Delivery Time", "basic": "3 Days", "standard": "5 Days", "premium": "Fast Track" }
+    ],
+    "plans": [
+      {
+        "id": "ui-basic",
+        "name": "Basic Plan",
+        "price": "5000",
+        "duration": "/ Project",
+        "description": "Perfect for small design tasks",
+        "badge": "🟢 Starter",
+        "isFeatured": false,
+        "features": ["1 Design Concept", "Basic UI Design", "2 Revisions", "Delivery in 2-3 Days"]
+      },
+      {
+        "id": "ui-standard",
+        "name": "Standard Plan",
+        "price": "12000",
+        "duration": "/ Project",
+        "description": "Best for growing businesses",
+        "badge": "⭐ Popular",
+        "isFeatured": true,
+        "featureTitle": "Standard Features:",
+        "buttonText": "Start Now",
+        "features": ["3 Design Concepts", "Full UI/UX Design", "Interactive Prototype", "5 Revisions", "Delivery in 3-5 Days"]
+      },
+      {
+        "id": "ui-premium",
+        "name": "Premium Plan",
+        "price": "15000",
+        "duration": "/ Project",
+        "description": "For complete design solutions",
+        "badge": "💎 Elite",
+        "isFeatured": false,
+        "features": ["Unlimited Concepts", "Complete UI Kit", "User Journey Map", "Unlimited Revisions", "Dedicated Support"]
+      }
+    ]
+  },
+  {
+    "category": "Graphic Design",
+    "title": "Graphic",
+    "comparison": [
+      { "feature": "Logo Variations", "basic": "2 Styles", "standard": "5 Styles", "premium": "Unlimited" },
+      { "feature": "Vector Source Files", "basic": true, "standard": true, "premium": true },
+      { "feature": "Print Ready Files", "basic": true, "standard": true, "premium": true },
+      { "feature": "Social Media Kit", "basic": false, "standard": true, "premium": true },
+      { "feature": "Stationery Design", "basic": false, "standard": false, "premium": true },
+      { "feature": "Brand Guidelines", "basic": false, "standard": true, "premium": true },
+      { "feature": "Copyright Ownership", "basic": true, "standard": true, "premium": true },
+      { "feature": "Support", "basic": "Standard", "standard": "Priority", "premium": "Dedicated" },
+      { "feature": "Delivery Time", "basic": "2 Days", "standard": "4 Days", "premium": "Fast" }
+    ],
+    "plans": [
+      {
+        "id": "gd-basic",
+        "name": "Starter",
+        "price": "3000",
+        "duration": "/ Project",
+        "description": "Logo and basic branding",
+        "badge": "🟢 Basic",
+        "isFeatured": false,
+        "features": ["2 Logo Concepts", "Print Ready Files", "Unlimited Revisions", "2 Days Delivery"]
+      },
+      {
+        "id": "gd-standard",
+        "name": "Pro Pack",
+        "price": "8000",
+        "duration": "/ Project",
+        "description": "Complete social media kit",
+        "badge": "⭐ Recommended",
+        "isFeatured": true,
+        "featureTitle": "Pro Features:",
+        "buttonText": "Get Pro",
+        "features": ["5 Logo Concepts", "Social Media Kit", "Brand Guidelines", "Source Files", "Priority Support"]
+      },
+      {
+        "id": "gd-premium",
+        "name": "Enterprise",
+        "price": "12000",
+        "duration": "/ Project",
+        "description": "Full brand identity",
+        "badge": "💎 VIP",
+        "isFeatured": false,
+        "features": ["Unlimited Logos", "Full Marketing Materials", "Stationery Kit", "Copyright Transfer", "Dedicated Manager"]
+      }
+    ]
+  },
+  {
+    "category": "Vedio & Motion",
+    "title": "Motion",
+    "comparison": [
+      { "feature": "Video Duration", "basic": "10 Sec", "standard": "30 Sec", "premium": "60 Sec" },
+      { "feature": "Resolution", "basic": "HD 720p", "standard": "Full HD 1080p", "premium": "4K Ultra HD" },
+      { "feature": "Character Animation", "basic": false, "standard": false, "premium": true },
+      { "feature": "Background Music", "basic": true, "standard": true, "premium": true },
+      { "feature": "Professional Voiceover", "basic": false, "standard": true, "premium": true },
+      { "feature": "Sound Effects (SFX)", "basic": false, "standard": true, "premium": true },
+      { "feature": "Custom Illustrations", "basic": false, "standard": false, "premium": true },
+      { "feature": "Revisions", "basic": "2 Times", "standard": "5 Times", "premium": "Unlimited" },
+      { "feature": "Support", "basic": "Standard", "standard": "Priority", "premium": "Life-time" }
+    ],
+    "plans": [
+      {
+        "id": "vm-basic",
+        "name": "Intro Pack",
+        "price": "6000",
+        "duration": "/ Project",
+        "description": "Basic logo animation",
+        "badge": "🟢 Simple",
+        "isFeatured": false,
+        "features": ["10 Sec Animation", "HD Quality", "Background Music", "2 Revisions"]
+      },
+      {
+        "id": "vm-standard",
+        "name": "Promo Pack",
+        "price": "15000",
+        "duration": "/ Project",
+        "description": "Short promo or explainer",
+        "badge": "⭐ Best Choice",
+        "isFeatured": true,
+        "featureTitle": "Promo Features:",
+        "buttonText": "Order Now",
+        "features": ["30 Sec Animation", "Full HD Quality", "Voiceover Sync", "Sound Effects", "Fast Delivery"]
+      },
+      {
+        "id": "vm-premium",
+        "name": "Cinema Pack",
+        "price": "25000",
+        "duration": "/ Project",
+        "description": "High-end commercial video",
+        "badge": "💎 Cinema",
+        "isFeatured": false,
+        "features": ["60 Sec Premium Video", "4K Rendering", "Character Animation", "Custom Graphics", "VIP Support"]
+      }
+    ]
+  }
+]

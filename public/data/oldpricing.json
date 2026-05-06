@@ -1,0 +1,550 @@
+[
+ {
+   "category": "UI/UX Design",
+   "title": "UI/UX",
+   "comparison": [
+     {
+       "feature": "Design Concepts",
+       "basic": "1",
+       "standard": "3",
+       "premium": "Unlimited"
+     },
+     {
+       "feature": "Revisions",
+       "basic": "2",
+       "standard": "6",
+       "premium": "Unlimited"
+     },
+     {
+       "feature": "Delivery Time",
+       "basic": "3 Days",
+       "standard": "5 Days",
+       "premium": "Fast"
+     },
+     {
+       "feature": "Support",
+       "basic": "Basic",
+       "standard": "Priority",
+       "premium": "Dedicated"
+     }
+   ],
+   "plans": [
+     {
+       "id": "ui-basic",
+       "name": "Basic Plan",
+       "price": "5000",
+       "duration": "/ Project",
+       "description": "Perfect for small design tasks",
+       "badge": "🟢 Starter",
+       "features": [
+         "1 Design Concept",
+         "Basic UI / Graphic Design",
+         "2 Revisions",
+         "Delivery in 2-3 Days"
+       ]
+     },
+     {
+       "id": "ui-standard",
+       "name": "Standard Plan",
+       "price": "12000",
+       "duration": "/ Project",
+       "description": "Best for growing businesses",
+       "badge": "⭐ Popular",
+       "featureTitle": "Free Plan Features:",
+       "features": [
+         "2-3 Design Concepts",
+         "UI/UX or Branding Design",
+         "4 Revisions",
+         "Priority Support",
+         "Delivery in 3-5 Days"
+       ]
+     },
+     {
+       "id": "ui-premium",
+       "name": "Premium Plan",
+       "price": "15000",
+       "duration": "/ Project",
+       "description": "For complete design solutions",
+       "badge": "💎 Best Value",
+       "features": [
+         "Full Design Package",
+         "UI/UX + Branding",
+         "Unlimited Revisions",
+         "Fast Delivery",
+         "Dedicated Support"
+       ]
+     }
+   ]
+ },
+ {
+   "category": "Graphic Design",
+   "title": "Branding",
+   "comparison": [
+     {
+       "feature": "Logo Concepts",
+       "basic": "1",
+       "standard": "2",
+       "premium": "3"
+     },
+     {
+       "feature": "Revisions",
+       "basic": "5",
+       "standard": "10",
+       "premium": "Unlimited"
+     },
+     {
+       "feature": "Logo Mockup",
+       "basic": true,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "File Formats",
+       "basic": "JPG, PNG",
+       "standard": "JPG, PNG",
+       "premium": "JPG, PNG, Vector"
+     },
+     {
+       "feature": "Color Palette",
+       "basic": true,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "Brand Typography",
+       "basic": false,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "Brand Guidelines",
+       "basic": "2 Pages",
+       "standard": "5 Pages",
+       "premium": "15 Pages"
+     },
+     {
+       "feature": "Social Profile Photo",
+       "basic": true,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "Facebook Cover",
+       "basic": false,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "Social Media Posts",
+       "basic": false,
+       "standard": "1",
+       "premium": "5"
+     },
+     {
+       "feature": "Business Card",
+       "basic": false,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "Letterhead",
+       "basic": false,
+       "standard": false,
+       "premium": true
+     },
+     {
+       "feature": "Envelope",
+       "basic": false,
+       "standard": false,
+       "premium": true
+     },
+     {
+       "feature": "Support",
+       "basic": "Basic",
+       "standard": "Priority",
+       "premium": "Dedicated"
+     },
+     {
+       "feature": "Delivery Time",
+       "basic": "3 Days",
+       "standard": "7 Days",
+       "premium": "15 Days"
+     }
+   ],
+   "plans": [
+     {
+       "id": "gd-basic",
+       "name": "Startup Pack",
+       "price": "1,000",
+       "duration": "/ Project",
+       "description": "Perfect for small startups",
+       "badge": "🟢 Starter",
+       "features": [
+         "1 Logo Concept",
+         "Logo Mockup",
+         "5 Revisions",
+         "JPG & PNG Files",
+         "Color Palette",
+         "Vector File",
+         "Brand Guidelines (2 pages)",
+         "Social Media Profile Photo",
+         "Delivery in 3 Days"
+       ]
+     },
+     {
+       "id": "gd-standard",
+       "name": "Growing Brand",
+       "price": "5,000",
+       "duration": "/ Project",
+       "description": "Best for growing businesses",
+       "badge": "⭐ Popular",
+       "featureTitle": "Free Plan Features:",
+       "features": [
+         "2 Logo Concepts",
+         "Logo Mockup",
+         "10 Revisions",
+         "JPG & PNG Files",
+         "Color Palette",
+         "Brand Typography",
+         "Brand Guidelines (5 pages)",
+         "Social Media Profile Photo",
+         "Facebook Cover",
+         "1 Social Media Post",
+         "Business Card (2 sides)",
+         "Delivery in 7 Days"
+       ]
+     },
+     {
+       "id": "gd-premium",
+       "name": "Premium Plan",
+       "price": "10,000",
+       "duration": "/ Project",
+       "description": "Complete branding solution",
+       "badge": "💎 Best Value",
+       "features": [
+         "3 Logo Concepts",
+         "Logo Mockup",
+         "Unlimited Revisions",
+         "JPG & PNG Files",
+         "Color Palette",
+         "Vector File",
+         "Brand Typography",
+         "Brand Guidelines (15 pages)",
+         "Social Media Profile Photo",
+         "Facebook Cover",
+         "5 Social Media Posts",
+         "Business Card",
+         "Letterhead",
+         "Envelope Design",
+         "Dedicated Support",
+         "Delivery in 15 Days"
+       ]
+     }
+   ]
+ },
+ {
+   "category": "Vedio & Motion",
+   "title": "Video & Motion",
+   "comparison": [
+     {
+       "feature": "Video Length",
+       "basic": "5-10 Sec",
+       "standard": "15-30 Sec",
+       "premium": "30-60 Sec"
+     },
+     {
+       "feature": "Animation Level",
+       "basic": "Basic",
+       "standard": "Medium",
+       "premium": "Advanced"
+     },
+     {
+       "feature": "Sound Effects",
+       "basic": false,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "Music Included",
+       "basic": false,
+       "standard": true,
+       "premium": true
+     },
+     {
+       "feature": "Revisions",
+       "basic": "2",
+       "standard": "4",
+       "premium": "Unlimited"
+     },
+     {
+       "feature": "Export Quality",
+       "basic": "HD",
+       "standard": "Full HD",
+       "premium": "Full HD / 4K"
+     },
+     {
+       "feature": "Delivery Time",
+       "basic": "2-3 Days",
+       "standard": "3-5 Days",
+       "premium": "Fast"
+     },
+     {
+       "feature": "Support",
+       "basic": "Basic",
+       "standard": "Priority",
+       "premium": "Dedicated"
+     }
+   ],
+   "plans": [
+     {
+       "id": "vm-basic",
+       "name": "Basic Plan",
+       "price": "2,000",
+       "duration": "/ Project",
+       "description": "Perfect for simple motion content",
+       "badge": "🟢 Starter",
+       "features": [
+         "1 Short Motion Video (5-10 sec)",
+         "Basic Animation",
+         "Text & Logo Animation",
+         "2 Revisions",
+         "HD Export",
+         "Delivery in 2-3 Days"
+       ]
+     },
+     {
+       "id": "vm-standard",
+       "name": "Standard Plan",
+       "price": "5,000",
+       "duration": "/ Project",
+       "description": "Best for social media ads",
+       "badge": "⭐ Popular",
+       "featureTitle": "Free Plan Features:",
+       "features": [
+         "1 Motion Ad (15-30 sec)",
+         "Smooth & modern animation",
+         "Text + Image + Icon animation",
+         "Sound effects included",
+         "4 Revisions",
+         "Full HD Export",
+         "Delivery in 3-5 Days"
+       ]
+     },
+     {
+       "id": "vm-premium",
+       "name": "Premium Plan",
+       "price": "10,000",
+       "duration": "/ Project",
+       "description": "Complete video solution for brands",
+       "badge": "💎 Best Value",
+       "features": [
+         "1 Full Motion Video (30-60 sec)",
+         "Advanced animation",
+         "Story-based video",
+         "Custom transitions & effects",
+         "Sound design + music",
+         "Unlimited revisions",
+         "Full HD / 4K Export",
+         "Fast Delivery",
+         "Dedicated Support"
+       ]
+     }
+   ]
+ },
+ {
+   "category": "Social Media",
+   "title": "Social Media",
+   "comparison": [
+     {
+       "feature": "Design Type",
+       "creative": "Ad Creative",
+       "weekly": "Posts + 1 Ad",
+       "growth": "Posts + Ads",
+       "premium": "Full Package"
+     },
+     {
+       "feature": "Total Posts",
+       "creative": "4",
+       "weekly": "4",
+       "growth": "14",
+       "premium": "18"
+     },
+     {
+       "feature": "Ad Creatives",
+       "creative": false,
+       "weekly": "1",
+       "growth": "5",
+       "premium": "7"
+     },
+     {
+       "feature": "Size Formats",
+       "creative": "3 Sizes",
+       "weekly": "3 Sizes",
+       "growth": "3 Sizes",
+       "premium": "3 Sizes"
+     },
+     {
+       "feature": "Revisions",
+       "creative": "5",
+       "weekly": "Unlimited",
+       "growth": "Unlimited",
+       "premium": "Unlimited"
+     },
+     {
+       "feature": "Design Style",
+       "creative": "Modern",
+       "weekly": "Story-Based",
+       "growth": "Engagement",
+       "premium": "Premium"
+     },
+     {
+       "feature": "Motion Design",
+       "creative": false,
+       "weekly": false,
+       "growth": false,
+       "premium": "2 Videos"
+     },
+     {
+       "feature": "Support",
+       "creative": "Basic",
+       "weekly": "Basic",
+       "growth": "Priority",
+       "premium": "Dedicated"
+     },
+     {
+       "feature": "Delivery Time",
+       "creative": "2 Days",
+       "weekly": "5 Days",
+       "growth": "10-12 Days",
+       "premium": "10-12 Days"
+     }
+   ],
+   "plans": [
+     {
+       "id": "sm-starter",
+       "name": "Starter Plan",
+       "price": "500",
+       "duration": "/ Project",
+       "description": "Perfect for small businesses and startups",
+       "badge": "🟢 Starter",
+       "isFeatured": false,
+       "features": [
+         "1 Social Media Post Design",
+         "Facebook & Instagram Ready",
+         "3 Revisions",
+         "High Quality (JPG/PNG)",
+         "Content provided by you",
+         "Delivery in 2 Days"
+       ]
+     },
+     {
+       "id": "sm-creative",
+       "name": "Creative Ads",
+       "price": "1,000",
+       "duration": "/ Project",
+       "description": "Best for ads and business growth",
+       "badge": "⭐ Recommended",
+       "isFeatured": true,
+       "featureTitle": "Free Plan Features:",
+       "buttonText": "Try for free",
+       "features": [
+         "1 Ad Creative Design",
+         "3 Size Variations",
+         "Trendy & Modern Layout",
+         "Editable Source File",
+         "Facebook & Instagram Ready",
+         "5 Revisions",
+         "High Quality Export",
+         "Delivery in 2 Days"
+       ]
+     },
+     {
+       "id": "sm-weekly",
+       "name": "Weekly Pack",
+       "price": "3,000",
+       "duration": "/ Project",
+       "description": "Ideal for active social media presence",
+       "badge": "🔥 Popular",
+       "isFeatured": false,
+       "features": [
+         "4 Post Designs",
+         "1 Ad Creative",
+         "3 Size Variations",
+         "Storytelling Design Style",
+         "Trendy Layouts",
+         "Editable Source File",
+         "Unlimited Revisions",
+         "High Quality Export",
+         "Delivery in 5 Days"
+       ]
+     },
+     {
+       "id": "sm-growth",
+       "name": "Growth Pack",
+       "price": "10,000",
+       "duration": "/ Project",
+       "description": "For growing brands",
+       "badge": "🚀 Best for Business",
+       "isFeatured": false,
+       "features": [
+         "14 Post Designs",
+         "5 Ad Creatives",
+         "3 Size Formats",
+         "Facebook & Instagram Ready",
+         "Engagement-focused design",
+         "Modern layouts",
+         "Editable source files",
+         "Unlimited revisions",
+         "High quality export",
+         "Basic content support",
+         "Delivery in 10-12 days"
+       ]
+     },
+     {
+       "id": "sm-premium",
+       "name": "Premium Plan",
+       "price": "20,000",
+       "duration": "/ Project",
+       "description": "For brands that want to dominate",
+       "badge": "💎 Best Value",
+       "isFeatured": false,
+       "features": [
+         "18 Post Designs",
+         "7 Ad Creatives",
+         "3 Size Formats",
+         "Facebook & Instagram Ready",
+         "Conversion-focused design",
+         "Story-based visuals",
+         "Premium layouts",
+         "Editable source files",
+         "Unlimited revisions",
+         "High quality export",
+         "2 Motion ads",
+         "Content & strategy support",
+         "Dedicated support",
+         "Delivery in 10-12 days"
+       ]
+     },
+     {
+       "id": "sm-custom",
+       "name": "Custom Plan",
+       "price": "Custom Price",
+       "duration": "",
+       "description": "Flexible plan based on your needs",
+       "badge": "⚙️ Custom",
+       "isFeatured": false,
+       "features": [
+         "Custom design plan",
+         "Flexible posts & ads",
+         "Platform-based design",
+         "Strategy discussion",
+         "Dedicated Support",
+         "Monthly options available"
+       ]
+     }
+   ]
+ }
+]
+
+
+

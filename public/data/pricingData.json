@@ -1,0 +1,380 @@
+[
+  {
+    "category": "Social Media",
+    "title": "Social Media ",
+    "comparison": [],
+    "plans": [
+      {
+        "id": "sm-starter",
+        "name": "Starter Plan",
+        "price": "500",
+        "duration": "/ Project",
+        "description": "Perfect for small businesses and startups",
+        "badge": "🟢 Starter",
+        "isFeatured": false,
+        "features": [
+          "1 Social Media Post Design",
+          "Facebook & Instagram Ready",
+          "3 Revisions",
+          "High Quality (JPG/PNG)",
+          "Content provided by you",
+          "Delivery in 2 Days"
+        ]
+      },
+      {
+        "id": "sm-creative",
+        "name": "Creative Ads",
+        "price": "1,000",
+        "duration": "/ Project",
+        "description": "Best for ads and business growth",
+        "badge": "⭐ Recommended",
+        "isFeatured": true,
+        "features": [
+          "1 Ad Creative Design",
+          "3 Size Variations",
+          "Trendy & Modern Layout",
+          "Editable Source File",
+          "Facebook & Instagram Ready",
+          "Unlimited Revisions",
+          "High Quality Export",
+          "Delivery in 2 Days"
+        ]
+      },
+      {
+        "id": "sm-weekly",
+        "name": "Weekly Pack",
+        "price": "3,000",
+        "duration": "/ Project",
+        "description": "Ideal for active social media presence",
+        "badge": "🔥 Popular",
+        "isFeatured": false,
+        "features": [
+          "4 Post Designs",
+          "1 Ad Creative",
+          "3 Size Variations",
+          "Storytelling Design Style",
+          "Trendy Layouts",
+          "Editable Source File",
+          "Unlimited Revisions",
+          "High Quality Export",
+          "Delivery in 5 Days"
+        ]
+      },
+      {
+        "id": "sm-growth",
+        "name": "Growth Pack",
+        "price": "10,000",
+        "duration": "/ Project",
+        "description": "For growing brands",
+        "badge": "🚀 Best for Business",
+        "isFeatured": false,
+        "features": [
+          "14 Post Designs",
+          "5 Ad Creatives",
+          "3 Size Formats",
+          "Facebook & Instagram Ready",
+          "Engagement-focused design",
+          "Modern layouts",
+          "Editable source files",
+          "Unlimited revisions",
+          "High quality export",
+          "Basic content support",
+          "Delivery in 10-12 days"
+        ]
+      },
+      {
+        "id": "sm-premium",
+        "name": "Premium Plan",
+        "price": "20,000",
+        "duration": "/ Project",
+        "description": "For brands that want to dominate",
+        "badge": "💎 Best Value",
+        "isFeatured": false,
+        "features": [
+          "18 Post Designs",
+          "7 Ad Creatives",
+          "3 Size Formats",
+          "Facebook & Instagram Ready",
+          "Conversion-focused design",
+          "Story-based visuals",
+          "Premium layouts",
+          "Editable source files",
+          "Unlimited revisions",
+          "High quality export",
+          "2 Motion ads",
+          "Content & strategy support",
+          "Dedicated support",
+          "Delivery in 10-12 days"
+        ]
+      },
+      {
+        "id": "sm-custom",
+        "name": "Custom Plan",
+        "price": "Custom Price",
+        "duration": "",
+        "description": "Flexible plan based on your needs",
+        "badge": "⚙️ Custom",
+        "isFeatured": false,
+        "features": [
+          "Custom design plan",
+          "Flexible posts & ads",
+          "Platform-based design",
+          "Strategy discussion",
+          "Dedicated Support",
+          "Monthly options available"
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "Packaging",
+    "title": "Packaging Design",
+    "comparison": [],
+    "plans": [
+      {
+        "id": "pkg-basic",
+        "name": "Single Label",
+        "price": "1,000",
+        "duration": "/ Project",
+        "description": "Single product label design.",
+        "badge": "🟢 Starter",
+        "isFeatured": false,
+        "features": [
+          "1 Product Label Design",
+          "Unique Concept",
+          "3 Revisions",
+          "Print-Ready PDF & PNG",
+          "Basic 3D View Mockup",
+          "2 Days Delivery"
+        ]
+      },
+      {
+        "id": "pkg-standard",
+        "name": "Pro Packaging",
+        "price": "5,000",
+        "duration": "/ Project",
+        "description": "Best for professional label and box design.",
+        "badge": "⭐ Growing",
+        "isFeatured": true,
+        "buttonText": "Get Started",
+        "features": [
+          "1 Label + Box Design",
+          "2 Different Concepts",
+          "10 Revisions",
+          "All Source Files (AI, EPS, PDF)",
+          "Realistic 3D Views Mockup",
+          "4 Days Delivery"
+        ]
+      },
+      {
+        "id": "pkg-premium",
+        "name": "Premium",
+        "price": "10,000",
+        "duration": "/ Project",
+        "description": "Complete packaging identity for products.",
+        "badge": "🔥 Popular",
+        "isFeatured": false,
+        "features": [
+          "Label, Box + Master Carton",
+          "3 Premium Concepts",
+          "Unlimited Revisions",
+          "Full Source Files & Font Kit",
+          "360° Presentation",
+          "7 Days Delivery"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Logo Design",
+    "title": "Logo & Branding",
+    "comparison": [],
+    "plans": [
+      {
+        "id": "logo-basic",
+        "name": "Startup",
+        "price": "1,000",
+        "duration": "/ Project",
+        "description": "Perfect for startups",
+        "badge": "🟢 Starter",
+        "isFeatured": false,
+        "features": [
+          "1 Logo Concepts",
+          "Logo Mockup",
+          "5 Revisions",
+          "JPG & PNG",
+          "Color Palette",
+          "Brand Guidelines (2 pages)",
+          "All Social Media Profile Photo",
+          "2 Days Delivery"
+        ]
+      },
+      {
+        "id": "logo-standard",
+        "name": "Growing Brands",
+        "price": "5,000",
+        "duration": "/ Project",
+        "description": "Perfect for Rapid Growth",
+        "badge": "⭐ Recommended",
+        "isFeatured": true,
+        "featureTitle": "Standard Plan Features:",
+        "buttonText": "Get Started",
+        "features": [
+          "2 Logo Concept",
+          "Logo Mockup",
+          "10 Revisions",
+          "JPG & PNG",
+          "Color Palette",
+          "Vector File",
+          "Brand Typography",
+          "Brand Guidelines (5 pages)",
+          "All Social Media Profile Photo",
+          "Facebook Cover Photo",
+          "1 Social Media Post Design",
+          "Business Card (2 side)",
+          "5 Days Delivery"
+        ]
+      },
+      {
+        "id": "logo-premium",
+        "name": "Premium",
+        "price": "10,000",
+        "duration": "/ Project",
+        "description": "Complete Branding",
+        "badge": "💎 Popular",
+        "isFeatured": false,
+        "features": [
+          "3 Logo Concept",
+          "Logo Mockup",
+          "Social Media Kit",
+          "Unlimited Revisions",
+          "JPG & PNG",
+          "Color Palette",
+          "Vector File",
+          "Brand Typography",
+          "Brand Guidelines (15 pages)",
+          "All Social Media Profile Photo",
+          "Facebook Cover Photo",
+          "5 Social Media Post Design",
+          "Business Card (2 side)",
+          "Letterhead",
+          "Envelope",
+          "Dedicated Support",
+          "7 Days Delivery"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "UI/UX Design",
+    "title": "UI/UX",
+    "comparison": [],
+    "plans": [
+      {
+        "id": "ui-basic",
+        "name": "Single Page/Landing",
+        "price": "5,000",
+        "duration": "/ Project",
+        "description": "Single landing page design",
+        "badge": "🟢 Starter",
+        "features": [
+          "1 Page Modern UI Design",
+          "1 Unique Layout Concept",
+          "5 Revisions",
+          "Figma Source File",
+          "High Quality Assets & Icons",
+          "3 Days Delivery"
+        ]
+      },
+      {
+        "id": "ui-standard",
+        "name": "Standard App/Web",
+        "price": "15,000",
+        "duration": "/ Project",
+        "description": "Mobile app or multi-page website.",
+        "badge": "⭐ Popular",
+        "features": [
+          "Up to 10 Pages/Screens",
+          "2 Layout Concepts",
+          "Unlimited Revisions",
+          "Interactive Prototype",
+          "Full Source File & Style Guide",
+          "7 Days Delivery"
+        ]
+      },
+      {
+        "id": "ui-premium",
+        "name": "Full UX/UI",
+        "price": "10,000",
+        "duration": "/ Project",
+        "description": "High-end software or complex application.",
+        "badge": "🔥 Pro",
+        "features": [
+          "UX Research & Wireframing",
+          "Unlimited Pages/Screens",
+          "Unlimited Revisions",
+          "Advanced Prototype",
+          "Developer Handoff Support",
+          "15-20 Days Delivery"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Video & Motion",
+    "comparison": [],
+    "plans": [
+      {
+        "id": "vm-basic",
+        "name": "Basic Motion",
+        "price": "2,000",
+        "duration": "/ Project",
+        "description": "Social media ads or Video Edit",
+        "badge": "🟢 Starter",
+        "features": [
+          "Up to 30 Seconds Duration",
+          "1 Animation Concept",
+          "3 Revisions",
+          "1080p Full HD Output",
+          "Basic Sound Effects (SFX)",
+          "3 Days Delivery"
+        ]
+      },
+      {
+        "id": "vm-standard",
+        "name": "Commercial/Promo",
+        "price": "5,000",
+        "duration": "/ Project",
+        "description": "Brand promos, product explainers",
+        "badge": "⭐ Popular",
+        "features": [
+          "Up to 60 Seconds Duration",
+          "High Edit",
+          "5 Revisions",
+          "4K Ultra HD Resolution",
+          "Motion Graphics & Transitions",
+          "Premium Background Music",
+          "5 Days Delivery"
+        ]
+      },
+      {
+        "id": "vm-premium",
+        "name": "Premium Production",
+        "price": "15,000",
+        "duration": "/ Project",
+        "description": "Corporate video, complex explainers",
+        "badge": "🔥 Pro",
+        "features": [
+          "Custom Duration",
+          "Scriptwriting & Storyboarding",
+          "Unlimited Revisions",
+          "Premium Stock Footage & Custom Illustrations",
+          "Color Grading & Advanced Sound Design",
+          "10 Days Delivery"
+        ]
+      }
+    ]
+  }
+]

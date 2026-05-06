@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "UI/UX Design",
+    "title": "Mobile Banking App Design",
+    "services": "UI/UX Design, User Research",
+    "tags": ["Fintech", "Mobile App", "Prototype"],
+    "gif": "https://img.freepik.com/free-vector/mobile-banking-app-interface-design_23-2148593412.jpg"
+  },
+  {
+    "id": 2,
+    "category": "UI/UX Design",
+    "title": "E-Commerce Web Dashboard",
+    "services": "Web Design, Admin Panel",
+    "tags": ["Dashboard", "SaaS", "Data Viz"],
+    "gif": "https://img.freepik.com/free-vector/gradient-user-interface-elements-set_23-2148419645.jpg"
+  },
+  {
+    "id": 3,
+    "category": "UI/UX Design",
+    "title": "Travel Booking Concept",
+    "services": "Interaction Design, UX Research",
+    "tags": ["Travel", "Booking", "Responsive"],
+    "gif": "https://img.freepik.com/free-vector/travel-app-interface-template_23-2148604732.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Graphic Design",
+    "title": "KFB Brand Identity",
+    "services": "Logo Design, Brand Guidelines",
+    "tags": ["Branding", "Corporate", "Logo"],
+    "gif": "https://img.freepik.com/free-psd/logo-mockup-white-paper_10384-66.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Graphic Design",
+    "title": "Social Media Ad Campaign",
+    "services": "Visual Design, Marketing",
+    "tags": ["Ads", "Facebook", "Instagram"],
+    "gif": "https://img.freepik.com/free-vector/digital-marketing-agency-social-media-post-template_23-2149129532.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Graphic Design",
+    "title": "Tech Conference Stationery",
+    "services": "Print Design, Merchandise",
+    "tags": ["Stationery", "Print", "Tech"],
+    "gif": "https://img.freepik.com/free-psd/stationery-branding-identity-mockup_10384-113.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Vedio & Motion",
+    "title": "Cinematic Travel Commercial",
+    "services": "Color Grading, Visual Effects (VFX)",
+    "tags": ["4K Post-Production", "Narrative Scene", "Epic Transitions"],
+    "gif": "https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"
+  },
+  {
+    "id": 8,
+    "category": "Vedio & Motion",
+    "title": "Tech Brand Documentary",
+    "services": "Motion Graphics, Sound Design",
+    "tags": ["Audio Sync", "Voiceover Editing", "Typography Design"],
+    "gif": "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+  },
+  {
+    "id": 9,
+    "category": "Vedio & Motion",
+    "title": "High-Energy Sports Promo",
+    "services": "Dynamic Editing, Fast Cuts, VFX Compositing",
+    "tags": ["Color Correction", "Dynamic Motion", "VFX Composite"],
+    "gif": "https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+  }
+]
