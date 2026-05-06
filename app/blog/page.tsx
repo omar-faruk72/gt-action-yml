@@ -21,6 +21,8 @@ const Blog = () => {
 
       <NewsLetterBlog></NewsLetterBlog>
     </div>
+    // 
+    
   );
 };
 
